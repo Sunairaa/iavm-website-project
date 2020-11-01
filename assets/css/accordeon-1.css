@@ -1,0 +1,8 @@
+.card-body {
+  width:100%;
+}
+
+.card-header:first-child {
+  text-align:left;
+}
+
